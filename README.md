@@ -4,6 +4,8 @@
 
 I work in corporate physical security and build practical technical projects outside of work. My interests connect operational security, dependable infrastructure, and software: understanding what happened, communicating clearly, and verifying that a system works before calling it fixed.
 
+**Current focus (October 2026):** Improving Linux home-infrastructure reliability and continuing work on a separate private automation project.
+
 ## Selected work
 
 ### Linux home lab — monitoring and recovery exercises
@@ -15,16 +17,18 @@ I work in corporate physical security and build practical technical projects out
 
 **Focus:** Linux administration, networking, monitoring, diagnostics, and evidence-based recovery.
 
-### [DHK Align](https://github.com/sartu01/dhkalign) — language application
-*Public source repository.*
+### [DHK Align](https://github.com/sartu01/dhkalign) — preserved software project
+*Public source repository; product dormant since October 2026.*
 
-A Banglish-to-English language project developed with a React frontend, a Cloudflare Worker edge layer, a Python FastAPI backend, and SQLite.
+Developed a Banglish-to-English language application using React, Cloudflare Workers, Python FastAPI, and SQLite. The public-facing product has been paused and now displays a blackout page; underlying intellectual property and rollback materials were preserved.
 
-- Built around API requests, caching, access controls, and request limits.
-- Includes health/version checks and GitHub Actions smoke-test workflows.
-- Provides hands-on practice with application design, debugging, and deployment.
+- Worked on APIs, caching, access controls, and request limits.
+- Built health/version checks and GitHub Actions smoke-test workflows.
+- Learned application design, debugging, deployment, and deliberate service-retirement practices.
 
-**Focus:** Python, JavaScript/React, API design, access control, and automated checks.
+**Focus:** Python, JavaScript/React, API design, access control, and testing.
+
+*The project's older README describes a previous deployment and should not be interpreted as evidence of a currently active translation service.*
 
 ### Local AI experimentation
 *Independent work; not published as a repository.*
